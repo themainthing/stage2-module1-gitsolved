@@ -1,5 +1,7 @@
 onechanged5step
 twochanged5step
+onechanged4step
+twochanged4step
 three
 four
 five
